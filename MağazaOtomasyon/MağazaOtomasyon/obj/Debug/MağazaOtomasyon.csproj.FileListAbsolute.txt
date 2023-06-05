@@ -1,0 +1,11 @@
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\bin\Debug\MağazaOtomasyon.exe.config
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\bin\Debug\MağazaOtomasyon.exe
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\bin\Debug\MağazaOtomasyon.pdb
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.csproj.AssemblyReference.cache
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.Form1.resources
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.Properties.Resources.resources
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.csproj.GenerateResource.cache
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.exe
+C:\Users\ademc\source\repos\MağazaOtomasyon\MağazaOtomasyon\obj\Debug\MağazaOtomasyon.pdb
